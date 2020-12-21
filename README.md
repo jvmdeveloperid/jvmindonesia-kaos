@@ -22,7 +22,13 @@ INGAT!! Order akan ditutup pada hari **Rabu 25 Januari 2021**
 
 Cara order dari repo ni...
 
-1. Daftar ke link [ini.](http://s.id/kaosjvm2021)
+1. Daftar ke link berikut:
+|---|---|---|
+|No|Jenis T-SHIRT|LINK|
+|1| JVM Indonesia Regular |http://s.id/kaosjvm2021|
+|2| JVM Indonesia Loreng |http://s.id/kaosjvm2021Loreng|
+|3| Kotlin Indonesia |http://s.id/kaoskotlin2021|
+|---|---|---|
 2. Isi semua data dalam form tersebut.
 3. Transfer ke nomer rekening :
 	
