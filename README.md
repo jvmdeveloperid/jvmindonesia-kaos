@@ -42,3 +42,8 @@ Dah dech Itu aje... terima kasih!
 **T-SHIRT JVM 1 - Regular**
 
 ![Kaos JVM](JVM1.jpeg)
+
+
+**T-SHIRT JVM 2 - Loreng**
+
+![Kaos JVM](JVM2.jpeg)
