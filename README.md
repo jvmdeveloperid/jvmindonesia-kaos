@@ -39,4 +39,6 @@ Cara order dari repo ni...
 6. Kirim bukti transaksinya ke [@hendisantika34](t.me/hendisantika34)
 Dah dech Itu aje... terima kasih!
 
+**T-SHIRT JVM 1 - Regular**
+
 ![Kaos JVM](JVM1.jpeg)
