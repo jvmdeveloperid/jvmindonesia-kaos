@@ -50,6 +50,8 @@ Dah dech Itu aje... terima kasih!
 
 ![Kaos JVM](SpringBoot.jpeg=1080x780)
 
+<img src="SpringBoot.jpeg" width="1080" height="780>
+
 
 **T-SHIRT JVM 2 - Loreng**
 
