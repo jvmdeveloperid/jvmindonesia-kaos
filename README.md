@@ -16,9 +16,9 @@ Ini design kaos yang untuk umum. Bisa dipakai masing-masing atau bersama kawan-k
 
 Harga 150K aja cukup lah. T-shirt bahan dan kualitas super dengan sablon karet sublime Premium. Ukuran dari S hingga 2XL saja.
 
-Jangan tunggu lebih lama lagi, nanti keburu kehabisan. Order ini ditutup hari **Rabu 25 Januari 2021**. Keceee badaii khann ..... Biar lebih terasa semangat JVM Indonesia -nya... hahahaha...
+Jangan tunggu lebih lama lagi, nanti keburu kehabisan. Order ini ditutup hari **Rabu 31 Maret 2021**. Keceee badaii khann ..... Biar lebih terasa semangat JVM Indonesia -nya... hahahaha...
 
-INGAT!! Order akan ditutup pada hari **Rabu 25 Januari 2021**
+INGAT!! Order akan ditutup pada hari **Rabu 31 Maret 2021**
 
 Cara order dari repo ni...
 
@@ -33,9 +33,12 @@ Cara order dari repo ni...
 2. Isi semua data dalam form tersebut.
 3. Transfer ke nomer rekening :
 	
-	BNI - 0909402427	
+	|No|Nama Bank|Nomor Rekening|
+	|---|---|---|
+	|1| BCA |1393013668|
+	|2| Mandiri |130-001-248-5069|
 	
-	Hendi Santika
+	Semuanya atas nama: Hendi Santika
 	
 	Tambah 3 digit akhir dengan 212.
 	
