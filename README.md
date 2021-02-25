@@ -36,7 +36,7 @@ Cara order dari repo ni...
 	|No|Nama Bank|Nomor Rekening|
 	|---|---|---|
 	|1| BCA |1393013668|
-	|2| Mandiri |130-001-248-5069|
+	|2| Mandiri |13000-1248-5069|
 	
 	Semuanya atas nama: Hendi Santika
 	
