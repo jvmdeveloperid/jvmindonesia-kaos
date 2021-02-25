@@ -54,3 +54,7 @@ Dah dech Itu aje... terima kasih!
 **T-SHIRT JVM 2 - Loreng**
 
 ![Kaos JVM](JVM2.jpeg)
+
+**T-SHIRT Kotlin**
+
+![Kaos Kotlin](Kotlin2.jpeg)
