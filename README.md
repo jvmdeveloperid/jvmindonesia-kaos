@@ -48,9 +48,7 @@ Dah dech Itu aje... terima kasih!
 
 **T-SHIRT JVM 1 - Regular**
 
-![Kaos JVM](SpringBoot.jpeg=1080x780)
-
-<img src="SpringBoot.jpeg" width="1080" height="780>
+![Kaos JVM](springboot.jpeg)
 
 
 **T-SHIRT JVM 2 - Loreng**
