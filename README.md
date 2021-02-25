@@ -48,7 +48,7 @@ Dah dech Itu aje... terima kasih!
 
 **T-SHIRT JVM 1 - Regular**
 
-![Kaos JVM](springboot.jpeg)
+![Kaos JVM](springboot.jpg)
 
 
 **T-SHIRT JVM 2 - Loreng**
