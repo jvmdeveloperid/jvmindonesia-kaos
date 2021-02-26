@@ -46,7 +46,7 @@ Cara order dari repo ni...
 	
 	Saya pesan 1 JVM Indonesia dan 3 digit kode 212.
 	Jadi, saya harus tranfer : 150212
-6. Kirim bukti transaksinya ke [@hendisantika34](t.me/hendisantika34)
+6. Kirim bukti transaksinya ke [@hendisantika34](https://t.me/hendisantika34)
 Dah dech Itu aje... terima kasih!
 
 **T-SHIRT JVM 1 - Regular**
