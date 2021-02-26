@@ -31,7 +31,8 @@ Cara order dari repo ni...
 	|3| Kotlin Indonesia |http://s.id/kaoskotlin2021|
 	
 2. Isi semua data dalam form tersebut.
-3. Transfer ke nomer rekening :
+3. Cek Ongkir nya dari Bandung ke Tujuan antum di --> https://www.jne.co.id/id/tracking/tarif
+4. Transfer ke nomer rekening :
 	
 	|No|Nama Bank|Nomor Rekening|
 	|---|---|---|
@@ -45,8 +46,8 @@ Cara order dari repo ni...
 	Contoh : 
 	
 	Saya pesan 1 JVM Indonesia dan 3 digit kode 212.
-	Jadi, saya harus tranfer : 150212
-6. Kirim bukti transaksinya ke [@hendisantika34](https://t.me/hendisantika34)
+	Jadi, saya harus tranfer : 150212 + 20K (Ongkir) jadi totalnya 170212
+5. Kirim bukti transaksinya ke [@hendisantika34](https://t.me/hendisantika34)
 Dah dech Itu aje... terima kasih!
 
 **T-SHIRT JVM 1 - Regular**
