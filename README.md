@@ -53,15 +53,15 @@ Cara order dari repo ni...
 5. Kirim bukti transaksinya ke [@hendisantika34](https://t.me/hendisantika34)
 Dah dech Itu aje... terima kasih!
 
-**T-SHIRT JVM 1 - Regular**
+**T-SHIRT JVM 1 - Regular | 150K**
 
 ![Kaos JVM](springboot.jpg)
 
 
-**T-SHIRT JVM 2 - Loreng**
+**T-SHIRT JVM 2 - Loreng | 160K**
 
 ![Kaos JVM](JVM2.jpeg)
 
-**T-SHIRT Kotlin**
+**T-SHIRT Kotlin | 150K**
 
 ![Kaos Kotlin](Kotlin2.jpeg)
