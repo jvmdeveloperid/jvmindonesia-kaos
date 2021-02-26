@@ -20,6 +20,9 @@ Jangan tunggu lebih lama lagi, nanti keburu kehabisan. Order ini ditutup hari **
 
 INGAT!! Order akan ditutup pada hari **Rabu 31 Maret 2021**
 
+* Masa Produksi dimulai hari Jum'at, 26 Maret 2021.
+* Masa Pengiriman dimulai hari Kamis, 1 April 2021.
+
 Cara order dari repo ni...
 
 1. Daftar ke link berikut:
